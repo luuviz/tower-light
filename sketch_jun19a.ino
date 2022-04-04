@@ -5,7 +5,6 @@
 
 const char* ssid = "Tower-Light";
 const char* password = "sa123456";
-
 ESP8266WebServer server(80);
 
 const int led = 4;
